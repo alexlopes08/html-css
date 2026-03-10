@@ -1,0 +1,32 @@
+body {
+    background-color: #f9f3b9; /* amarelo clarinho COMO NO TEU SCREENSHOT */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.caixa {
+    background: #fff8d5;       /* amarelo mais claro da caixa */
+    width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #b8860b; /* dourado / castanho - igual ao teu screenshot */
+}
+
+h2 {
+    color: #a11616; /* vermelho escuro */
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+a {
+    font-weight: bold;
+    color: #0000aa;
+}

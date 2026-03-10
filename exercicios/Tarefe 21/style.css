@@ -1,0 +1,45 @@
+/* Body */
+body {
+    background-color: rgb(203, 230, 250);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Títulos h1 */
+h1 {
+    color: rgb(5, 50, 83);
+}
+
+/* Títulos h2 */
+h2 {
+    color: rgb(25, 100, 126);
+}
+
+/* ID principal */
+#principal {
+    text-align: center;
+    background-color: rgb(5, 50, 83);
+    color: white;
+    padding: 15px;
+}
+
+/* Classe basico */
+.basico {
+    color: rgb(25, 126, 76);
+    font-weight: bold;
+}
+
+/* Classe intermedio */
+.intermedio {
+    color: rgb(243, 150, 8);
+}
+
+/* Classe avancado */
+.avancado {
+    color: rgb(231, 12, 12);
+}
+
+/* Classe destaque */
+.destaque {
+    background-color: rgba(232, 232, 87, 0.361);
+    padding: 5px;
+}
